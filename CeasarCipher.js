@@ -23,7 +23,7 @@ function rot13(str) {
     ); // Rejoin the array into a string
 }
 
-console.log(rot13("Serr PBQR PNZC"));
-console.log(rot13("SERR CVMMN!"));
-console.log(rot13("serr cvmmn!"));
-console.log(rot13("GUR DHVPX OEBJA SBK WHZCF BIRE GUR YNML QBT."));
+console.log(rot13("PBQR"));
+console.log(rot13("Gur PBQR"));
+console.log(rot13("gur"));
+console.log(rot13("CVMMN!"));
